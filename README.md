@@ -5,8 +5,6 @@
 
 - 💬 Ask me about **C#, Flutter, Python, C++, Dart**
 
-- 📫 How to reach me **johann12354@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
